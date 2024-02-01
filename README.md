@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wallpaperaccess.com/full/3632416.png" align="center" style="width: 100%" />
+<img src="https://wallpaperaccess.com/full/3632416.png" align="center" style="width: 50%" />
 </div>  
   
 
